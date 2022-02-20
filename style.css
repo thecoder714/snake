@@ -1,0 +1,7 @@
+#game_canvas {
+    border: 5px double;
+    background-color:rgb(46, 97, 141);
+    margin: auto;
+    height: 100%;
+    width: 100%;
+}
